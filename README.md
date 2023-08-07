@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Akash Singh,
 ####  Weaving magic with Python to create dynamic solutions.
-![ Weaving magic with Python to create dynamic solutions.](https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif)
+![ Weaving magic with Python to create dynamic solutions...😀😉](https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif)
 
-I'm a Python and Java specialist, crafting efficient solutions with a focus on web applications. 
+I'm a Python and Java specialist, crafting efficient solutions with a focus on web applications....💻🖇️
 
-Proficient in Django, I create innovative software to drive impactful results.
+Proficient in Django, I create innovative software to drive impactful results...💯👩‍💻
 
 Skills: VUE JS / REACT / JS / HTML / CSS/Django/Python
 
