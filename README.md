@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Akash Singh,
-####  Weaving magic with Python to create dynamic solutions.
+####  Weaving magic with Python to create dynamic solutions...👨‍💻💻
 ![ Weaving magic with Python to create dynamic solutions...😀😉](https://media.tenor.com/2unHkuoMLhcAAAAd/data-code.gif)
 
 I'm a Python and Java specialist, crafting efficient solutions with a focus on web applications....💻🖇️
